@@ -15,3 +15,27 @@ header img {
     width: 150px;
     padding: 10px;
 }
+/* creazione titolo*/
+h1 {
+    font-style: serif;
+    padding: 20px;
+    margin: -5px;
+    text-align: left;
+    font-size: 50px;
+}
+
+h3 {
+    padding: -50px;
+   color: gray;
+   text-align: left;
+}
+
+h4 {
+    color: gray;
+    text-align: left;
+}
+
+/* aggiunto dimensioni font della descrizione delle immagini*/
+p.description {
+    font-size: 10px;
+}
