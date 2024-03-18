@@ -69,8 +69,37 @@ table, th, td {
 td.color {
     background-color: aqua;
     background-size: 300px 100px;
+    
 }
 
 th.colonna {
+    font-family: serif; color: white;
     background-color: blue;
+}
+
+/* stile paragrafo 2*/
+
+#paragrafo {
+    font-size: 25px;
+    margin: 10px;
+    padding: 10px;
+    text-align: left;
+}
+
+.bg_monitor {
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+}
+
+.monitor {
+    color: white;
+}
+
+.bg_graph {
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 200px;
+    margin: 10px;
 }
