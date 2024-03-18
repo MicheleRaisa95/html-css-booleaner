@@ -1,0 +1,17 @@
+/*setup documento*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* impostazione background e logo header*/
+header {
+    background-color: skyblue;
+    background-image: url(../img/pattern.png);
+    background-size: 350px;
+    background-repeat: repeat;
+}
+header img {
+    width: 150px;
+    padding: 10px;
+}
